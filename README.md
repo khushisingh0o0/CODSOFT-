@@ -1,6 +1,6 @@
 # CODSOFT-
 <br>
-C++ Programming Internship in CodSoft<br>
+C++ Programming Internship in CodSoft<br><br>
 TASK 1- NUMBER GUESSING GAME<br>
 Create a program that generates a random number and asks the
 user to guess it. Provide feedback on whether the guess is too
